@@ -620,5 +620,3 @@ d_k            Dimension of keys (used in √d_k scaling)
 ```
 
 ---
-
-*Built from the KV Cache video notes — every phase flows into the next.*
